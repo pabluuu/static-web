@@ -1,0 +1,50 @@
+.messi{
+    border-radius: 90px;
+    height: 250px;
+    
+}
+
+.p{
+    margin-left: 150px;
+}
+.micro{
+    height: 100px;
+    width: 110px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.Amazon{
+    height: 100px;
+    width: 110px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.google{
+    height: 260px;
+    width: 200px;
+}
+.btn{
+    margin-top: 15px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color:#00d0ff;
+    background-color:#fff ;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px #00d0ff; 
+    transition: all 0.3s ease;  
+}
+.btn:hover{
+    background-color: #fff;
+    color: #00d0ff;
+    border: 2px solid solid #00d0ff;
+    box-shadow: 5px 5px 0px #00d0ff;
+}
+.btn:active{
+    background-color: #fcf414;
+    box-shadow: none;
+    transform: translateY(4px);
+}
+    
+
